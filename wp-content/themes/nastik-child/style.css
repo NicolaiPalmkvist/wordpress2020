@@ -8,7 +8,10 @@ Version: 1.0
 */ 
 /*******Herunder er mine CSS ndringer*********/
 
-*{background-color: pink };
+*{background-color: black};
 
 
-test test
+#img_profilbillede 
+{width: 300px;}
+
+
