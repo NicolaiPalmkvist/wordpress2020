@@ -4,14 +4,16 @@ Description: Teamet Nicolais Portfolio bruger forldre teamet Nastik
 Author: Nicolai Palmkvist
 Author URI: http://www.nicolaipalmkvist.dk/wordpress/
 Template: nastik
-Version: 1.0
+Version: 1.1
 */ 
-/*******Herunder er mine CSS ndringer*********/
-
-*{background-color: black};
+/*******Herunder er mine CSS aandringer*********/
 
 
-#img_profilbillede 
-{width: 300px;}
+
+.half-hero-wrap h1 { /*Jeg har ndret noget af tekst overskriften til hvid, fr var den sort*/
+    color: white;
+	}
+
+
 
 
