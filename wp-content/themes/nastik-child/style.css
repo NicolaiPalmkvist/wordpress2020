@@ -10,9 +10,14 @@ Version: 1.1
 
 
 
-.half-hero-wrap h1 { /*Jeg har ndret noget af tekst overskriften til hvid, fr var den sort*/
+.half-hero-wrap h1 { /*Jeg har aandret den forste del af tekstoverskriften til hvid, for var den sort*/
     color: white;
 	}
+
+.footer-widget li a { /*Jeg har aandret farve paa min kontaktinfo i footeren, da den er vigtig, og man skal kunne se den, for var den sort*/
+    text-align: left;
+    color: #D39C49;
+}
 
 
 
