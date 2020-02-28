@@ -1,0 +1,408 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-15 13:32:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-admin.php:797
+msgid "Donate to support Duplicate Post"
+msgstr "Donér til Duplicate Post"
+
+#: duplicate-post-admin.php:378
+msgid "Copy &#8220;%s&#8221; to a new draft"
+msgstr "Kopier &#8220;%s&#8221; til en ny kladde"
+
+#: duplicate-post-admin.php:375
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Klon &#8220;%s&#8221;"
+
+#: duplicate-post-admin.php:356
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Slet reference til originalt emne: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#. translators: Original item link (to view or edit) or title.
+#: duplicate-post-admin.php:325
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: duplicate-post-admin.php:300
+msgid "Delete reference to original item: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Slet reference til originalt emne: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: duplicate-post-admin.php:271
+msgid "Original item"
+msgstr "Originalt emne"
+
+#: duplicate-post-admin.php:213
+msgid "Accessibility of the user interface has been improved"
+msgstr "Adgangen til brugerfladen er blevet forbedret"
+
+#: duplicate-post-admin.php:212
+msgid "New options to show the original in the post list or in the edit screen!"
+msgstr "Nye muligheder for at vise den originale i indlægslisten eller i editoren!"
+
+#: duplicate-post-options.php:615
+msgid "After the title in the Post list"
+msgstr "Efter titlen i indlægslisten"
+
+#: duplicate-post-options.php:610
+msgid "you'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "du vil også kunne slette henvisningen til det originale emne via et afkrydsningsfelt i Lynredigering"
+
+#: duplicate-post-options.php:609
+msgid "In a column in the Post list"
+msgstr "I en kolonne i indlægslisten"
+
+#: duplicate-post-options.php:604
+msgid "you'll also be able to delete the reference to the original item with a checkbox"
+msgstr "du vil også kunne slette henvisningen til det originale emne via et afkrydsningsfelt"
+
+#: duplicate-post-options.php:603
+msgid "In a metabox in the Edit screen [Classic editor]"
+msgstr "I en metaboks i editoren (Klassisk editor)"
+
+#: duplicate-post-options.php:598
+msgid "Show original item:"
+msgstr "Vis originalt emne:"
+
+#: duplicate-post-options.php:593
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). You can find more info about this on the <a href=\"%s\">developer&apos;s guide for Duplicate Post</a>"
+msgstr "Du kan også bruge skabelon-tagget duplicate_post_clone_post_link( $link, $before, $after, $id ). Du kan læse mere om det i <a href=\"%s\">developer&apos;s guide for Duplicate Post</a>"
+
+#: duplicate-post-options.php:351
+msgid "Settings sections"
+msgstr "Indstilingssektioner"
+
+#: duplicate-post-options.php:97
+msgid "Support forum for Duplicate Post"
+msgstr "Supportforum for Duplicate Post"
+
+#: duplicate-post-options.php:96
+msgid "Translate Duplicate Post"
+msgstr "Oversæt Duplicate Post"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation for Duplicate Post"
+msgstr "Dokumentation for Duplicate Post"
+
+#: duplicate-post-options.php:92 duplicate-post-admin.php:216
+msgid "Support the plugin by making a donation or becoming a patron!"
+msgstr "Understøt dette plugin med en donation eller ved at blive protektor!"
+
+#: duplicate-post.php:52
+msgid "Settings for Duplicate Post"
+msgstr "Indstillinger for Duplicate Post"
+
+#. translators: %s: post title
+#: duplicate-post-common.php:133
+msgid "View &#8220;%s&#8221;"
+msgstr "Vis &#8220;%s&#8221;"
+
+#: duplicate-post-common.php:124
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Forhåndsvis &#8220;%s&#8221;"
+
+#: duplicate-post-common.php:114
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Rediger &#8220;%s&#8221;"
+
+#: duplicate-post-options.php:583
+msgid "now works on Edit screen too - check this option to use with Gutenberg enabled"
+msgstr "virker nu på redigerings visningen også - marker for at bruge med Gutenberg aktiveret"
+
+#: duplicate-post-admin.php:210
+msgid "What's new in Duplicate Post version %s:"
+msgstr "Hvad er nyt i Duplicate Post version %s:"
+
+#: duplicate-post-admin.php:422
+msgid "Current user is not allowed to copy posts."
+msgstr "Nuværende bruger har ikke tilladelse til at kopiere."
+
+#: duplicate-post-admin.php:215
+msgid "Check out the documentation"
+msgstr "Tjek dokumentationen"
+
+#: duplicate-post-options.php:90 duplicate-post-admin.php:216
+msgid "Serving the WordPress community since November 2007."
+msgstr "Tjener WordPress fællesskabet siden november 2007."
+
+#. Plugin URI of the plugin
+msgid "https://duplicate-post.lopo.it/"
+msgstr "https://duplicate-post.lopo.it/"
+
+#: duplicate-post-options.php:425
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "du vil formegentlig ikke sætte fluebenet her, med mindre du har specielle krav"
+
+#: duplicate-post-options.php:95 duplicate-post-admin.php:796
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: duplicate-post-options.php:622
+msgid "Show update notice"
+msgstr "Vis opdateringsbesked"
+
+#: duplicate-post-options.php:587
+msgid "Bulk Actions"
+msgstr "Massehandlinger"
+
+#: duplicate-post-options.php:488
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Du kan bruge * til at matche nul eller flere alfanumeriske tegn eller understreg: f.eks. felt*"
+
+#: duplicate-post-options.php:434
+msgid "Menu order"
+msgstr "Menurækkefølge"
+
+#: duplicate-post-options.php:419
+msgid "Author"
+msgstr "Forfatter"
+
+#: duplicate-post-options.php:416
+msgctxt "post format"
+msgid "Format"
+msgstr "Format"
+
+#: duplicate-post-options.php:413
+msgid "Template"
+msgstr "Skabelon"
+
+#: duplicate-post-options.php:410
+msgid "Featured Image"
+msgstr "Udvalgt billede"
+
+#: duplicate-post-options.php:97
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: duplicate-post-admin.php:215
+msgid "Please <a href=\"%s\">review the settings</a> to make sure it works as you expect."
+msgstr "<a href=\"%s\">Gennemse indstillingerne</a> for at være sikker på, at alt virker som du forventer."
+
+#: duplicate-post-admin.php:807
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element kopieret."
+msgstr[1] "%s elementer kopieret."
+
+#: duplicate-post-options.php:561 duplicate-post-options.php:592
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "Om links vises for tilpassede indholdstyper (CPT) registreret af temaer eller plugins, afhænger af deres brug af standardelementer fra WordPress&#39; brugergrænseflade"
+
+#: duplicate-post-options.php:560
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "Vælg de indholdstyper, der skal være aktive i dette plugin"
+
+#: duplicate-post-options.php:551
+msgid "Enable for these post types"
+msgstr "Aktiver for disse indholdstyper"
+
+#: duplicate-post-options.php:545
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "Adgangskoder og indhold af adgangskode-beskyttet indhold kan blive synlige for uønskede brugere og besøgende"
+
+#: duplicate-post-options.php:495
+msgid "Show/hide private taxonomies"
+msgstr "Vis/skjul private klassificeringer"
+
+#: duplicate-post-options.php:473
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Tilføj dette nummer til den oprindelige menu rækkefølge (blank eller nul for samme værdi)"
+
+#: duplicate-post-options.php:467
+msgid "Increase menu order by"
+msgstr "Øg menu rækkefølge med"
+
+#: duplicate-post-options.php:431
+msgid "except pingbacks and trackbacks"
+msgstr "med undtagelse af pingbacks og trackbacks"
+
+#: duplicate-post-options.php:431
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: duplicate-post-options.php:428
+msgid "Children"
+msgstr "Under elementer"
+
+#: duplicate-post-options.php:425
+msgid "Attachments"
+msgstr "Vedhæftninger"
+
+#: duplicate-post-options.php:422
+msgid "Password"
+msgstr "Adgangskode"
+
+#: duplicate-post-options.php:407
+msgid "Content"
+msgstr "Indhold"
+
+#: duplicate-post-options.php:404
+msgid "Excerpt"
+msgstr "Uddrag"
+
+#: duplicate-post-options.php:401
+msgid "Slug"
+msgstr "Korttitel"
+
+#: duplicate-post-options.php:398
+msgid "Status"
+msgstr "Status"
+
+#: duplicate-post-options.php:395
+msgid "Date"
+msgstr "Dato"
+
+#: duplicate-post-options.php:392
+msgid "Title"
+msgstr "Titel"
+
+#: duplicate-post-options.php:388
+msgid "Post/page elements to copy"
+msgstr "Elementer, der kopieres"
+
+#: duplicate-post-options.php:376
+msgid "Display"
+msgstr "Vis"
+
+#: duplicate-post-options.php:367
+msgid "Permissions"
+msgstr "Tilladelser"
+
+#: duplicate-post-options.php:358
+msgid "What to copy"
+msgstr "Hvad skal kopieres"
+
+#: duplicate-post-admin.php:703
+msgid "Untitled"
+msgstr "Uden titel"
+
+#: duplicate-post-admin.php:684
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieringsfunktioner for denne indholdstype er ikke aktiveret under indstillinger"
+
+#: duplicate-post-admin.php:219
+msgid "Dismiss this notice."
+msgstr "Skjul denne besked."
+
+#. Author URI of the plugin
+msgid "https://lopo.it"
+msgstr "https://lopo.it"
+
+#. Author of the plugin
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "Klon sider og indlæg."
+
+#: duplicate-post.php:53
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: duplicate-post-options.php:633
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: duplicate-post-options.php:583
+msgid "Admin bar"
+msgstr "Administrationsbjælke"
+
+#: duplicate-post-options.php:581
+msgid "Edit screen"
+msgstr "Redigeringsvisning"
+
+#: duplicate-post-options.php:579
+msgid "Post list"
+msgstr "Indlægsliste"
+
+#: duplicate-post-options.php:575
+msgid "Show links in"
+msgstr "Vis links på/i"
+
+#: duplicate-post-options.php:544
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Advarsel: brugere vil være i stand til at kopiere alle indlæg, også indlæg oprettet af andre brugere"
+
+#: duplicate-post-options.php:527
+msgid "Roles allowed to copy"
+msgstr "Brugerroller med tilladelse til at kopiere"
+
+#: duplicate-post-options.php:460
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Suffiks, der skal tilføjes i slutningen af den originale titel, fx \"(kopi)\" (efterlad tomt hvis intet suffiks ønskes)"
+
+#: duplicate-post-options.php:454
+msgid "Title suffix"
+msgstr "Titel suffix"
+
+#: duplicate-post-options.php:447
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Præfiks, der skal tilføjes i starten af den originale titel, fx \"Kopi af\" (efterlad tomt hvis intet præfiks ønskes)"
+
+#: duplicate-post-options.php:441
+msgid "Title prefix"
+msgstr "Titel prefix"
+
+#: duplicate-post-options.php:512
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Vælg de taksonomier du ikke vil kopiere"
+
+#: duplicate-post-options.php:493
+msgid "Do not copy these taxonomies"
+msgstr "Kopier ikke disse taksonomier"
+
+#: duplicate-post-options.php:487
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "Kommasepareret liste med egne felter der ikke skal kopieres"
+
+#: duplicate-post-options.php:480
+msgid "Do not copy these fields"
+msgstr "Kopier ikke disse felter"
+
+#. Plugin Name of the plugin
+#: duplicate-post-options.php:49
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: duplicate-post-options.php:49 duplicate-post-options.php:79
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post indstillinger"
+
+#: duplicate-post-options.php:96
+msgid "Translate"
+msgstr "Oversæt"
+
+#: duplicate-post-admin.php:797
+msgid "Donate"
+msgstr "Doner"
+
+#: duplicate-post-admin.php:466
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiering fejlede, kunne ikke finde originalen:"
+
+#: duplicate-post-admin.php:426
+msgid "No post to duplicate has been supplied!"
+msgstr "Du har ikke valgt noget indhold at kopiere!"
+
+#: duplicate-post-admin.php:379
+msgid "New Draft"
+msgstr "Ny kladde"
+
+#: duplicate-post-common.php:78 duplicate-post-common.php:81
+#: duplicate-post-common.php:172 duplicate-post-common.php:184
+#: duplicate-post-admin.php:395
+msgid "Copy to a new draft"
+msgstr "Kopier til ny kladde"
+
+#: duplicate-post-admin.php:376 duplicate-post-admin.php:831
+msgid "Clone"
+msgstr "Klon"

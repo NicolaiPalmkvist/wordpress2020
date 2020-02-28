@@ -1,0 +1,324 @@
+0000.000 (0) Opened log file at time: Thu, 27 Feb 2020 07:14:58 +0000 on http://www.nicolaipalmkvist.dk/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.22 WP: 5.3.2 PHP: 7.2.28 (litespeed, Linux linux114.unoeuro.com 2.6.32-954.3.5.lve1.4.76.el6.x86_64 #1 SMP Mon Dec 23 07:33:14 EST 2019 x86_64) MySQL: 5.7.29-32-log WPLANG: da_DK Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 2048M (used: 52.2M | 58M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 182249.6 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.008 (0) Semaphore (fd, wp_nicolaipalmkvistoptions) being initialised
+0000.011 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.013 (0) Set semaphore last lock (fd) time to 2020-02-27 07:14:58
+0000.013 (0) Semaphore lock (fd) complete
+0000.017 (0) Backup run: resumption=0, nonce=6849b1c3fd38, file_nonce=6849b1c3fd38 begun at=1582787698 (0s ago), job type=backup
+0000.018 (0) Scheduling a resumption (1) after 300 seconds (1582787998) in case this run gets aborted
+0000.038 (0) Checking if we have a zip executable available
+0000.039 (0) Testing: /usr/bin/zip
+0000.044 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.046 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.047 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.048 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.049 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.054 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.055 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.057 (0) Working binary zip found: /usr/bin/zip
+0000.058 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.058 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.777 (0) Total entities for the zip file: 864 directories, 5876 files (0 skipped as non-modified), 87.7 MB
+0000.780 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.783 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.785 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.788 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.791 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.792 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.5 MB, 5876 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.136 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: size is now: 4.90 MB
+0002.140 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 600 files added (on-disk size: 4972.7 KB)
+0002.142 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 700 files added (on-disk size: 4972.7 KB)
+0002.144 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 800 files added (on-disk size: 4972.7 KB)
+0002.148 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 900 files added (on-disk size: 4972.7 KB)
+0002.151 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1000 files added (on-disk size: 4972.7 KB)
+0002.152 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 5876 files batched, 501 (1002) added so far); re-opening (prior size: 4972.7 KB)
+0004.789 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: size is now: 6.20 MB
+0004.794 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1100 files added (on-disk size: 6324.4 KB)
+0004.797 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1200 files added (on-disk size: 6324.4 KB)
+0004.800 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1300 files added (on-disk size: 6324.4 KB)
+0004.802 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1400 files added (on-disk size: 6324.4 KB)
+0004.804 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1500 files added (on-disk size: 6324.4 KB)
+0004.804 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.1 MB, 5876 files batched, 501 (1503) added so far); re-opening (prior size: 6324.4 KB)
+0005.621 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1600 files added (on-disk size: 6558 KB)
+0005.623 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1700 files added (on-disk size: 6558 KB)
+0005.625 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1800 files added (on-disk size: 6558 KB)
+0005.627 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 1900 files added (on-disk size: 6558 KB)
+0005.630 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2000 files added (on-disk size: 6558 KB)
+0005.630 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.7 MB, 5876 files batched, 501 (2004) added so far); re-opening (prior size: 6558 KB)
+0006.533 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2100 files added (on-disk size: 7570.6 KB)
+0006.535 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2200 files added (on-disk size: 7570.6 KB)
+0006.537 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2300 files added (on-disk size: 7570.6 KB)
+0006.540 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2400 files added (on-disk size: 7570.6 KB)
+0006.542 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2500 files added (on-disk size: 7570.6 KB)
+0006.543 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 5876 files batched, 501 (2505) added so far); re-opening (prior size: 7570.6 KB)
+0007.567 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2600 files added (on-disk size: 8910.9 KB)
+0007.572 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2700 files added (on-disk size: 8910.9 KB)
+0007.575 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2800 files added (on-disk size: 8910.9 KB)
+0007.579 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 2900 files added (on-disk size: 8910.9 KB)
+0007.583 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3000 files added (on-disk size: 8910.9 KB)
+0007.584 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (20.7 MB, 5876 files batched, 501 (3006) added so far); re-opening (prior size: 8910.9 KB)
+0010.403 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: size is now: 13.60 MB
+0010.409 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3100 files added (on-disk size: 13970 KB)
+0010.412 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3200 files added (on-disk size: 13970 KB)
+0010.416 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3300 files added (on-disk size: 13970 KB)
+0010.419 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3400 files added (on-disk size: 13970 KB)
+0010.422 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3500 files added (on-disk size: 13970 KB)
+0010.423 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.6 MB, 5876 files batched, 501 (3507) added so far); re-opening (prior size: 13970 KB)
+0012.574 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3600 files added (on-disk size: 15856.1 KB)
+0012.578 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3700 files added (on-disk size: 15856.1 KB)
+0012.580 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3800 files added (on-disk size: 15856.1 KB)
+0012.582 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 3900 files added (on-disk size: 15856.1 KB)
+0012.585 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4000 files added (on-disk size: 15856.1 KB)
+0012.585 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.9 MB, 5876 files batched, 501 (4008) added so far); re-opening (prior size: 15856.1 KB)
+0014.729 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4100 files added (on-disk size: 17065.6 KB)
+0014.731 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4200 files added (on-disk size: 17065.6 KB)
+0014.734 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4300 files added (on-disk size: 17065.6 KB)
+0014.736 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4400 files added (on-disk size: 17065.6 KB)
+0014.738 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4500 files added (on-disk size: 17065.6 KB)
+0014.739 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.3 MB, 5876 files batched, 501 (4509) added so far); re-opening (prior size: 17065.6 KB)
+0016.408 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: size is now: 21.50 MB
+0016.412 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4600 files added (on-disk size: 22035.8 KB)
+0016.415 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4700 files added (on-disk size: 22035.8 KB)
+0016.419 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4800 files added (on-disk size: 22035.8 KB)
+0016.422 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 4900 files added (on-disk size: 22035.8 KB)
+0016.427 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5000 files added (on-disk size: 22035.8 KB)
+0016.428 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.7 MB, 5876 files batched, 501 (5010) added so far); re-opening (prior size: 22035.8 KB)
+0017.059 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5100 files added (on-disk size: 22871 KB)
+0017.062 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5200 files added (on-disk size: 22871 KB)
+0017.064 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5300 files added (on-disk size: 22871 KB)
+0017.066 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5400 files added (on-disk size: 22871 KB)
+0017.068 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5500 files added (on-disk size: 22871 KB)
+0017.069 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.9 MB, 5876 files batched, 501 (5511) added so far); re-opening (prior size: 22871 KB)
+0018.312 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5600 files added (on-disk size: 24604.2 KB)
+0018.314 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5700 files added (on-disk size: 24604.2 KB)
+0018.316 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip.tmp: 5800 files added (on-disk size: 24604.2 KB)
+0020.543 (0) Created plugins zip (0) - 28546.3 KB in 20.5 s (1393.7 KB/s) (sha1: 188810c616e929fc57cb6e9c31fe02ef9a144a20, sha256: 1f240c74239866217db67764e2089810ea83b98e92ab11e94249c85de5889c4e)
+0020.544 (0) Beginning creation of dump of themes (split every: 400 MB)
+0020.690 (0) Total entities for the zip file: 96 directories, 454 files (0 skipped as non-modified), 15.7 MB
+0020.693 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0020.696 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0020.699 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0020.701 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0022.866 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip.tmp: size is now: 8.40 MB
+0022.958 (0) Created themes zip (0) - 8551.2 KB in 2.4 s (3544.4 KB/s) (sha1: 930e80bb5bc1d1efd643c2a065e7dd597aff46df, sha256: b640aff13e4f74886b1a65e0d842781a74cbf2aa3ebb2d252073e778482b2789)
+0022.962 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0022.963 (0) Looking for candidates to backup in: /var/www/nicolaipalmkvist.dk/public_html/wordpress/wp-content/uploads
+0022.963 (0) finding files: 2020: adding to list (1)
+0022.964 (0) finding files: revslider: adding to list (2)
+0022.964 (0) finding files: js_composer: adding to list (3)
+0022.965 (0) finding files: 2019: adding to list (4)
+0022.965 (0) finding files: 2018: adding to list (5)
+0022.966 (0) finding files: redux: adding to list (6)
+0022.967 (0) finding files: elementor: adding to list (7)
+0022.967 (0) finding files: evf-logs: adding to list (8)
+0022.968 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.012 (0) Total entities for the zip file: 26 directories, 1970 files (0 skipped as non-modified), 614.5 MB
+0023.013 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (34.3 MB, 1970 files batched, 14 (14) added so far); re-opening (prior size: 0 KB)
+0025.959 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: size is now: 34.30 MB
+0025.962 (0) A useful amount of data was added after this amount of zip processing: 3.5 s (normalised: 2.5 s, rate: 10166.9 KB/s)
+0025.966 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.4517779350281, normalised_time=2.5179643633736, max_time=25.962318897247, data points known=1, old_max_bytes=26214400, new_max_bytes=162175435)
+0025.969 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: 100 files added (on-disk size: 35102 KB)
+0025.971 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: 200 files added (on-disk size: 35102 KB)
+0025.972 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 154.7 MB added on this batch (160 MB, 1970 files batched, 203 (217) added so far); re-opening (prior size: 35102 KB)
+0051.605 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: size is now: 194.30 MB
+0051.608 (0) A useful amount of data was added after this amount of zip processing: 26.1 s (normalised: 25.2 s, rate: 6277.2 KB/s)
+0051.612 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: 300 files added (on-disk size: 198967.6 KB)
+0051.615 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: 400 files added (on-disk size: 198967.6 KB)
+0051.616 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 154.7 MB added on this batch (159.2 MB, 1970 files batched, 230 (447) added so far); re-opening (prior size: 198967.6 KB)
+0097.187 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip.tmp: size is now: 353.50 MB
+0097.190 (0) A useful amount of data was added after this amount of zip processing: 45.7 s (normalised: 44.4 s, rate: 3568.3 KB/s)
+0097.192 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (43 MB, 41 (488) files added so far); last ratio: 1; re-opening (prior size: 362020.8 KB)
+0149.360 (0) Zip size is at/near split limit (396.6 MB / 400 MB) - bumping index (from: 0)
+0199.059 (0) Created uploads zip (0) - 406071.9 KB in 126.4 s (3212.7 KB/s) (checksums: sha1: b9bde8be698e9738d678c34a42062dec6076f2d2, sha256: 9067cb36b2d15dad4659bccc464f197e73c70d5c01001025b6d24cd1ac9ed316)
+0199.063 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (4.4 MB, 1 (489) files added so far); re-opening (prior size: 0 KB)
+0199.724 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: size is now: 4.40 MB
+0199.727 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 500 files added (on-disk size: 4458 KB)
+0199.729 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 600 files added (on-disk size: 4458 KB)
+0199.731 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 700 files added (on-disk size: 4458 KB)
+0199.734 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 800 files added (on-disk size: 4458 KB)
+0199.736 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 900 files added (on-disk size: 4458 KB)
+0199.738 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (76.6 MB, 1970 files batched, 501 (990) added so far); re-opening (prior size: 4458 KB)
+0211.363 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: size is now: 81.00 MB
+0211.366 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1000 files added (on-disk size: 82959.4 KB)
+0211.369 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1100 files added (on-disk size: 82959.4 KB)
+0211.373 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1200 files added (on-disk size: 82959.4 KB)
+0211.376 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1300 files added (on-disk size: 82959.4 KB)
+0211.380 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1400 files added (on-disk size: 82959.4 KB)
+0211.382 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (95.6 MB, 1970 files batched, 501 (1491) added so far); re-opening (prior size: 82959.4 KB)
+0228.009 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: size is now: 176.70 MB
+0228.012 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1500 files added (on-disk size: 180916.1 KB)
+0228.015 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1600 files added (on-disk size: 180916.1 KB)
+0228.019 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1700 files added (on-disk size: 180916.1 KB)
+0228.022 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1800 files added (on-disk size: 180916.1 KB)
+0228.025 (0) Zip: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: 1900 files added (on-disk size: 180916.1 KB)
+0251.579 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip.tmp: size is now: 218.40 MB
+0254.318 (0) Created uploads zip (1) - 223620.6 KB in 55.3 s (4046.8 KB/s) (sha1: dc5dbcafba694adf3d73bbb4ed62084aa049b4b0, sha256: 018b4c4610bace58da50d45945827136bc5d58fe6e0018f9bd684e50609c2562)
+0254.320 (0) Beginning backup of other directories found in the content directory (index: 0)
+0254.321 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0254.322 (0) Looking for candidates to backup in: /var/www/nicolaipalmkvist.dk/public_html/wordpress/wp-content
+0254.322 (0) finding files: upgrade: skipping: excluded by options
+0254.323 (0) finding files: updraft: skipping: this is the updraft directory
+0254.323 (0) finding files: themes: skipping: this is the themes directory
+0254.324 (0) finding files: plugins: skipping: this is the plugins directory
+0254.324 (0) finding files: index.php: adding to list (1)
+0254.325 (0) finding files: uploads: skipping: this is the uploads directory
+0254.325 (0) finding files: languages: adding to list (2)
+0254.329 (0) Total entities for the zip file: 3 directories, 43 files (0 skipped as non-modified), 2.6 MB
+0254.991 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-others.zip.tmp: size is now: 0.70 MB
+0254.994 (0) The scheduled resumption is within 45 seconds - will reschedule
+0254.995 (0) Rescheduling resumption 1: moving to 345 seconds from now (1582788298)
+0254.997 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0255.013 (0) Created others zip (0) - 764.8 KB in 0.7 s (1113.6 KB/s) (sha1: c3383d81a0a15d643e14fd06a8bc1964f574cf54, sha256: 2bb96d3960cfdfc0e313f56fdd2cf74a20d115420c5bcdb8f070054b702101f1)
+0255.017 (0) Saving backup status to database (elements: 9)
+0255.019 (0) Beginning creation of database dump (WordPress DB)
+0255.021 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0255.731 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50717 SELECT COUNT(*) INTO @rocksdb_has_p_s_session_variables FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'performance_schema' AND TABL (truncated - 2108 bytes total)
+0255.735 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0255.740 (0) Table wp_nicolaipalmkvistoptions: Total expected rows (approximate): 288
+0255.873 (0) Table wp_nicolaipalmkvistoptions: Total rows added: 291 in 0.13 seconds
+0255.874 (0) Table wp_nicolaipalmkvistoptions: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistoptions.table.gz - 292.5 KB)
+0255.881 (0) Table wp_nicolaipalmkvistusers: Total expected rows (approximate): 0
+0255.888 (0) Table wp_nicolaipalmkvistusers: Total rows added: 2 in 0.00 seconds
+0255.888 (0) Table wp_nicolaipalmkvistusers: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistusers.table.gz - 0.6 KB)
+0255.891 (0) Table wp_nicolaipalmkvistusermeta: Total expected rows (approximate): 32
+0255.894 (0) Table wp_nicolaipalmkvistusermeta: Total rows added: 44 in 0.00 seconds
+0255.894 (0) Table wp_nicolaipalmkvistusermeta: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistusermeta.table.gz - 2 KB)
+0255.898 (0) Table wp_nicolaipalmkvistcommentmeta: Total expected rows (approximate): 0
+0255.902 (0) Table wp_nicolaipalmkvistcommentmeta: Total rows added: 0 in 0.00 seconds
+0255.903 (0) Table wp_nicolaipalmkvistcommentmeta: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistcommentmeta.table.gz - 0.4 KB)
+0255.906 (0) Table wp_nicolaipalmkvistcomments: Total expected rows (approximate): 24
+0255.911 (0) Table wp_nicolaipalmkvistcomments: Total rows added: 24 in 0.00 seconds
+0255.911 (0) Table wp_nicolaipalmkvistcomments: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistcomments.table.gz - 1.3 KB)
+0255.914 (0) Table wp_nicolaipalmkvistlinks: Total expected rows (approximate): 0
+0255.918 (0) Table wp_nicolaipalmkvistlinks: Total rows added: 0 in 0.00 seconds
+0255.918 (0) Table wp_nicolaipalmkvistlinks: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistlinks.table.gz - 0.5 KB)
+0255.921 (0) Table wp_nicolaipalmkvistpostmeta: Total expected rows (approximate): 10092
+0256.702 (0) Table wp_nicolaipalmkvistpostmeta: binary mysqldump finished (writes: 46) in 0.78 seconds
+0256.704 (0) Table wp_nicolaipalmkvistpostmeta: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistpostmeta.table.gz - 125 KB)
+0256.708 (0) Table wp_nicolaipalmkvistposts: Total expected rows (approximate): 430
+0256.774 (0) Table wp_nicolaipalmkvistposts: Total rows added: 451 in 0.07 seconds
+0256.775 (0) Table wp_nicolaipalmkvistposts: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistposts.table.gz - 63.9 KB)
+0256.778 (0) Table wp_nicolaipalmkvistterm_relationships: Total expected rows (approximate): 148
+0256.780 (0) Table wp_nicolaipalmkvistterm_relationships: Total rows added: 141 in 0.00 seconds
+0256.780 (0) Table wp_nicolaipalmkvistterm_relationships: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterm_relationships.table.gz - 0.7 KB)
+0256.783 (0) Table wp_nicolaipalmkvistterm_taxonomy: Total expected rows (approximate): 17
+0256.785 (0) Table wp_nicolaipalmkvistterm_taxonomy: Total rows added: 19 in 0.00 seconds
+0256.786 (0) Table wp_nicolaipalmkvistterm_taxonomy: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterm_taxonomy.table.gz - 0.6 KB)
+0256.788 (0) Table wp_nicolaipalmkvisttermmeta: Total expected rows (approximate): 0
+0256.791 (0) Table wp_nicolaipalmkvisttermmeta: Total rows added: 0 in 0.00 seconds
+0256.792 (0) Table wp_nicolaipalmkvisttermmeta: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvisttermmeta.table.gz - 0.4 KB)
+0256.795 (0) Table wp_nicolaipalmkvistterms: Total expected rows (approximate): 17
+0256.797 (0) Table wp_nicolaipalmkvistterms: Total rows added: 19 in 0.00 seconds
+0256.797 (0) Table wp_nicolaipalmkvistterms: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterms.table.gz - 0.6 KB)
+0256.800 (0) Table wp_nicolaipalmkvistevf_entries: Total expected rows (approximate): 0
+0256.804 (0) Table wp_nicolaipalmkvistevf_entries: Total rows added: 0 in 0.00 seconds
+0256.804 (0) Table wp_nicolaipalmkvistevf_entries: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_entries.table.gz - 0.4 KB)
+0256.807 (0) Table wp_nicolaipalmkvistevf_entrymeta: Total expected rows (approximate): 0
+0256.815 (0) Table wp_nicolaipalmkvistevf_entrymeta: Total rows added: 0 in 0.01 seconds
+0256.816 (0) Table wp_nicolaipalmkvistevf_entrymeta: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_entrymeta.table.gz - 0.4 KB)
+0256.818 (0) Table wp_nicolaipalmkvistevf_sessions: Total expected rows (approximate): 0
+0256.821 (0) Table wp_nicolaipalmkvistevf_sessions: Total rows added: 0 in 0.00 seconds
+0256.822 (0) Table wp_nicolaipalmkvistevf_sessions: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_sessions.table.gz - 0.4 KB)
+0256.825 (0) Table wp_nicolaipalmkvistrevslider_css: Total expected rows (approximate): 109
+0256.836 (0) Table wp_nicolaipalmkvistrevslider_css: Total rows added: 109 in 0.01 seconds
+0256.837 (0) Table wp_nicolaipalmkvistrevslider_css: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_css.table.gz - 4.9 KB)
+0256.845 (0) Table wp_nicolaipalmkvistrevslider_css_bkp: Total expected rows (approximate): 47
+0256.853 (0) Table wp_nicolaipalmkvistrevslider_css_bkp: Total rows added: 47 in 0.01 seconds
+0256.857 (0) Table wp_nicolaipalmkvistrevslider_css_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_css_bkp.table.gz - 1.8 KB)
+0256.860 (0) Table wp_nicolaipalmkvistrevslider_layer_animations: Total expected rows (approximate): 0
+0256.863 (0) Table wp_nicolaipalmkvistrevslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0256.864 (0) Table wp_nicolaipalmkvistrevslider_layer_animations: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_layer_animations.table.gz - 0.3 KB)
+0256.867 (0) Table wp_nicolaipalmkvistrevslider_layer_animations_bkp: Total expected rows (approximate): 0
+0256.870 (0) Table wp_nicolaipalmkvistrevslider_layer_animations_bkp: Total rows added: 0 in 0.00 seconds
+0256.871 (0) Table wp_nicolaipalmkvistrevslider_layer_animations_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_layer_animations_bkp.table.gz - 0.3 KB)
+0256.874 (0) Table wp_nicolaipalmkvistrevslider_navigations: Total expected rows (approximate): 0
+0256.877 (0) Table wp_nicolaipalmkvistrevslider_navigations: Total rows added: 0 in 0.00 seconds
+0256.878 (0) Table wp_nicolaipalmkvistrevslider_navigations: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_navigations.table.gz - 0.3 KB)
+0256.881 (0) Table wp_nicolaipalmkvistrevslider_navigations_bkp: Total expected rows (approximate): 0
+0256.883 (0) Table wp_nicolaipalmkvistrevslider_navigations_bkp: Total rows added: 0 in 0.00 seconds
+0256.884 (0) Table wp_nicolaipalmkvistrevslider_navigations_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_navigations_bkp.table.gz - 0.3 KB)
+0256.888 (0) Table wp_nicolaipalmkvistrevslider_sliders: Total expected rows (approximate): 0
+0256.891 (0) Table wp_nicolaipalmkvistrevslider_sliders: Total rows added: 2 in 0.00 seconds
+0256.891 (0) Table wp_nicolaipalmkvistrevslider_sliders: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_sliders.table.gz - 2.9 KB)
+0256.895 (0) Table wp_nicolaipalmkvistrevslider_sliders_bkp: Total expected rows (approximate): 0
+0256.898 (0) Table wp_nicolaipalmkvistrevslider_sliders_bkp: Total rows added: 0 in 0.00 seconds
+0256.898 (0) Table wp_nicolaipalmkvistrevslider_sliders_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_sliders_bkp.table.gz - 0.3 KB)
+0256.905 (0) Table wp_nicolaipalmkvistrevslider_slides: Total expected rows (approximate): 4
+0256.909 (0) Table wp_nicolaipalmkvistrevslider_slides: Total rows added: 4 in 0.00 seconds
+0256.911 (0) Table wp_nicolaipalmkvistrevslider_slides: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_slides.table.gz - 1.4 KB)
+0256.918 (0) Table wp_nicolaipalmkvistrevslider_slides_bkp: Total expected rows (approximate): 0
+0256.921 (0) Table wp_nicolaipalmkvistrevslider_slides_bkp: Total rows added: 0 in 0.00 seconds
+0256.922 (0) Table wp_nicolaipalmkvistrevslider_slides_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_slides_bkp.table.gz - 0.3 KB)
+0256.925 (0) Table wp_nicolaipalmkvistrevslider_static_slides: Total expected rows (approximate): 0
+0256.932 (0) Table wp_nicolaipalmkvistrevslider_static_slides: Total rows added: 2 in 0.00 seconds
+0256.933 (0) Table wp_nicolaipalmkvistrevslider_static_slides: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_static_slides.table.gz - 0.4 KB)
+0256.936 (0) Table wp_nicolaipalmkvistrevslider_static_slides_bkp: Total expected rows (approximate): 0
+0256.939 (0) Table wp_nicolaipalmkvistrevslider_static_slides_bkp: Total rows added: 0 in 0.00 seconds
+0256.939 (0) Table wp_nicolaipalmkvistrevslider_static_slides_bkp: finishing file (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_static_slides_bkp.table.gz - 0.3 KB)
+0256.941 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistoptions.table.gz (1/27): adding to final database dump
+0257.005 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistusers.table.gz (2/27): adding to final database dump
+0257.007 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistusermeta.table.gz (3/27): adding to final database dump
+0257.008 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistcommentmeta.table.gz (4/27): adding to final database dump
+0257.010 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistcomments.table.gz (5/27): adding to final database dump
+0257.010 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistlinks.table.gz (6/27): adding to final database dump
+0257.014 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistpostmeta.table.gz (7/27): adding to final database dump
+0257.040 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistposts.table.gz (8/27): adding to final database dump
+0257.055 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterm_relationships.table.gz (9/27): adding to final database dump
+0257.056 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterm_taxonomy.table.gz (10/27): adding to final database dump
+0257.057 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvisttermmeta.table.gz (11/27): adding to final database dump
+0257.058 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistterms.table.gz (12/27): adding to final database dump
+0257.058 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_entries.table.gz (13/27): adding to final database dump
+0257.059 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_entrymeta.table.gz (14/27): adding to final database dump
+0257.059 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistevf_sessions.table.gz (15/27): adding to final database dump
+0257.060 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_css.table.gz (16/27): adding to final database dump
+0257.061 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_css_bkp.table.gz (17/27): adding to final database dump
+0257.062 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_layer_animations.table.gz (18/27): adding to final database dump
+0257.063 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_layer_animations_bkp.table.gz (19/27): adding to final database dump
+0257.065 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_navigations.table.gz (20/27): adding to final database dump
+0257.065 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_navigations_bkp.table.gz (21/27): adding to final database dump
+0257.066 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_sliders.table.gz (22/27): adding to final database dump
+0257.067 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_sliders_bkp.table.gz (23/27): adding to final database dump
+0257.067 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_slides.table.gz (24/27): adding to final database dump
+0257.068 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_slides_bkp.table.gz (25/27): adding to final database dump
+0257.068 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_static_slides.table.gz (26/27): adding to final database dump
+0257.069 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db-table-wp_nicolaipalmkvistrevslider_static_slides_bkp.table.gz (27/27): adding to final database dump
+0257.070 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db.gz: finished writing out complete database file (480 KB)
+0257.084 (0) Total database tables backed up: 27 (backup_2020-02-27-0814_portfolio_6849b1c3fd38-db.gz, size: 508741, sha1: 949e60a9958a7505e653f497ba90d21de72808cb, sha256: 78380a747cc342252f56d6e87ffcd219dc52f54231dcba8ce0262de0710b60e4)
+0257.088 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0257.089 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0257.089 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0257.090 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0257.091 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-others.zip: others: This file has not yet been successfully uploaded: will queue
+0257.091 (0) backup_2020-02-27-0814_portfolio_6849b1c3fd38-db.gz: db: This file has not yet been successfully uploaded: will queue
+0257.092 (0) Saving backup history. Total backup size: 652.4 MB
+0257.094 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0257.096 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0257.096 (0) No remote despatch: user chose no remote backup service
+0257.097 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-plugins.zip
+0257.098 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-themes.zip
+0257.100 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads.zip
+0257.101 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-uploads2.zip
+0257.103 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-others.zip
+0257.105 (0) Recording as successfully uploaded: backup_2020-02-27-0814_portfolio_6849b1c3fd38-db.gz
+0257.108 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0257.109 (0) Number of backup sets in history: 1; groups (db): 1
+0257.109 (0) Examining (for databases) backup set with group_id=0, nonce=6849b1c3fd38, datestamp=1582787698 (Feb 27 2020 07:14:58)
+0257.110 (0) This backup set is the backup set just made, so will not be deleted.
+0257.110 (0) Number of backup sets in history: 1; groups (files): 1
+0257.110 (0) Examining (for files) backup set with nonce=6849b1c3fd38, datestamp=1582787698 (Feb 27 2020 07:14:58)
+0257.110 (0) This backup set is the backup set just made, so will not be deleted.
+0257.111 (0) This backup set is the backup set just made, so will not be deleted.
+0257.111 (0) This backup set is the backup set just made, so will not be deleted.
+0257.111 (0) This backup set is the backup set just made, so will not be deleted.
+0257.111 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0257.112 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0257.113 (0) Resume backup (6849b1c3fd38, 0): finish run
+0257.115 (0) Decremented the semaphore (fd) by 1
+0257.116 (0) Semaphore (fd) unlocked
+0257.118 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0257.123 (0) The backup apparently succeeded and is now complete
+0257.124 (0) No email will/can be sent - the user has not configured an email address.
+0257.124 (0) Sikkerhedskopieringen lykkedes og er nu færdig

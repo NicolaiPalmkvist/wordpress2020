@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 /*======================================
  [ -Main Stylesheet-
   Theme: Nastik
@@ -43,8 +42,9 @@ body {
 @-ms-viewport {
 	width: device-width;
 }
+/*
 @viewport {
-	width: device-width;
+	 width: device-width; /*
 }
 /* ---------Page preload--------------------------------------*/
 .loader-wrap {
@@ -111,7 +111,7 @@ body {
 	bottom:0;
 	z-index:19;
 	display:none;
-	 -webkit-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
 }
 .page-load_bg  , .page-load_bg2 {
 	position:absolute;
@@ -1067,7 +1067,7 @@ p.interact,
 .footer-contacts li a {
 	float: left;
 	text-align: left;
-	color: #fff;
+	
 }
 .footer-contacts li span {
 	float: left;
@@ -1223,7 +1223,7 @@ p.interact,
 	width:50px;
 }
 .half-hero-wrap h1 {
-    color: #fff; 
+    
 	font-family: 'Teko', sans-serif;
 	text-transform:uppercase;
     font-size: 65px;
@@ -1277,7 +1277,7 @@ p.interact,
 }
 .carousel-title-wrap h2 a i {
 	padding-left:18px;
-    transition: all 100ms 2inear;
+    transition: all 100ms linear;
 }
 .carousel-title-wrap p {
 	color:rgba(255,255,255,0.71);
@@ -2701,12 +2701,10 @@ section {
     transform :scale(0.8);
 }
 .testi-avatar img {
-	width:80px;
-	height:80px;
-	float:left;
-	border-radius:100%;
-	border:6px solid #fff;
-	box-shadow: 0 9px 26px rgba(58, 87, 135, 0.1);
+   	float: left;
+    border-radius: 100%;
+    border: 6px solid #fff;
+    box-shadow: 0 9px 26px rgba(58, 87, 135, 0.1);
 }
 .swiper-slide-active .testi-avatar {
     transform :scale(1.0);
@@ -2813,7 +2811,7 @@ section {
 	width: 100%;
 }
 .client-list-white li a {
-	backgrou nd: #f9f9f9;
+	background: #f9f9f9;
 }
 .client-list-white li a:hover {
 	background: #fff;
@@ -3833,7 +3831,7 @@ section {
 	padding-bottom:10px;
 }
 #message p strong {
-	font-weight:800px;
+	font-weight:800;
 	color:#000;
 }
 /* ------Team------------------------------------------------------------ */
